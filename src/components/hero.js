@@ -1,8 +1,5 @@
 import * as React from "react"
-import PropTypes from "prop-types"
-import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import { IoLogoFacebook, IoLogoInstagram, IoCalendarNumberOutline } from "react-icons/io5";
 
 import "./hero.css"
 

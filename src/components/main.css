@@ -19,3 +19,13 @@
 html {
 	color: white;
 }
+
+@media screen and (max-width: 1202px) {
+	.section-1 {
+		flex-direction: column;
+	}
+	.right__sec_img {
+		width: 400px;
+	}
+  }
+  

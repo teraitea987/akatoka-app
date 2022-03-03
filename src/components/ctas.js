@@ -1,6 +1,4 @@
 import * as React from "react"
-import PropTypes from "prop-types"
-import { StaticImage } from "gatsby-plugin-image"
 import { FiFacebook, FiInstagram, FiCalendar } from "react-icons/fi";
 import "./ctas.css"
 
