@@ -1,0 +1,17 @@
+.section-1 {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	align-items: center;
+	width: 70%;
+}
+
+
+.right__sec_img {
+	width: 600px;
+}
+
+.hero__text {
+	  font-weight: 400;
+	  
+}
